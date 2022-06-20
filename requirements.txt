@@ -1,0 +1,4 @@
+fdk>=0.1.40
+oci
+pandas
+numpy
